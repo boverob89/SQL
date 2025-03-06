@@ -1,0 +1,2 @@
+Per motivi di riservatezza e per prevenire la copia non autorizzata del codice, ho oscurato alcune parti chiave, mantenendo comunque la leggibilità della logica generale.
+I placeholder (*********) sostituiscono nomi di tabelle, colonne e condizioni specifiche, rendendo il codice meno replicabile senza compromettere la comprensione della sua struttura
